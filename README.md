@@ -8,8 +8,3 @@ A flutter project to attract the tourists and promote tourism in a new way by in
 - Enabling location services to verify the actual destination of the user, finding nearby hotels,
 - and also provide them with the city map containing information about the hotels, and other exciting places that the tourist may pass by.
 - adding a "Tastes Diary" to record the visited destinations and all the experiences.
-
-## Gallery
-<img width="480px" src="./screenshots/1.png"/>
-<img width="480px" src="./screenshots/2.png"/>
-<img width="480px" src="./screenshots/3.png"/>
