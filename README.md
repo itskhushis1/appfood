@@ -4,6 +4,7 @@ A flutter project to attract the tourists and promote tourism in a new way by in
 This way they can maintain their "tastes diary" and explore the city. The app shall also work like a guide mapping out all the hotels with their history and lineage.
 *Currently the app is in development*
 
+
 ## Upcoming features
 - Integrating selfie feature.
 - Enabling location services to verify the actual destination of the user, finding nearby hotels,
