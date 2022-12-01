@@ -2,7 +2,7 @@
 
 A flutter project to attract the tourists and promote tourism in a new way by introducing the local hotels and restaurants to the tourists based on their location. The user can then go to the neaby hotel click a selfie and the app shall award them a sticker. 
 This way they can maintain their "tastes diary" and explore the city. The app shall also work like a guide mapping out all the hotels with their history and lineage.
-*Currently the app is in development*
+*Currently the app is in development* .
 
 
 ## Upcoming features
