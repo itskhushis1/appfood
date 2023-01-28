@@ -7,7 +7,6 @@ This way they can maintain their "tastes diary" and explore the city. The app sh
 
 *Currently the app is in development* .
 
-
 ## Upcoming features
 - Integrating selfie feature.
 - Enabling location services to verify the actual destination of the user, finding nearby hotels,
